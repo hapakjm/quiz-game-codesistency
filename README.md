@@ -52,7 +52,7 @@ The Quiz Game allows users to test their knowledge with multiple-choice question
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/quiz-game.git
+   git clone https://github.com/hapakjm/quiz-game-codesistency.git
    ```
 
 2. **Open the index.html file in your browser**
